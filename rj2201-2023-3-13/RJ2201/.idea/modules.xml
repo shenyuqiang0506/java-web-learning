@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RJ2201.iml" filepath="$PROJECT_DIR$/RJ2201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rj01-JDBC/rj01-JDBC.iml" filepath="$PROJECT_DIR$/rj01-JDBC/rj01-JDBC.iml" />
+    </modules>
+  </component>
+</project>

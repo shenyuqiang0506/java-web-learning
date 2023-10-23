@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+D:\Java Webѧϰ\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3922053404.index
+\manage_books\src
+D:\Java Webѧϰ\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2473328146.index
+\manage_books\src
+D:\Java Webѧϰ\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\358413545.index
+\manage_books\src

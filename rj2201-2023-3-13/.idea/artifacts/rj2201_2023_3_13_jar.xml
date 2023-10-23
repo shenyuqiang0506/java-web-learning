@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rj2201-2023-3-13:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rj2201_2023_3_13_jar</output-path>
+    <root id="archive" name="rj2201-2023-3-13.jar">
+      <element id="module-output" name="RJ2201" />
+      <element id="module-output" name="rj01-JDBC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-java-8.0.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
